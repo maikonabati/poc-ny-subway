@@ -1,5 +1,9 @@
 # Object file
 *.o
 
-# Ada Library Information
-*.ali
+# Block files
+*.csv
+*.txt
+*.pptx
+*.ppt
+*.zip
