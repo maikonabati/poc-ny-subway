@@ -1,3 +1,3 @@
 # poc-ny-subway
 
-<img src="https://en.wikipedia.org/wiki/New_York_City_Subway_map#/media/File:NYC_subway-4D.svg"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/NYC_subway-4D.svg/800px-NYC_subway-4D.svg.png"/>
