@@ -1,3 +1,3 @@
 # poc-ny-subway
 
-<img src="http://web.mta.info/maps/images/sub_map_1500x1842_Nov_2018.jpg"/>
+<img src="https://en.wikipedia.org/wiki/New_York_City_Subway_map#/media/File:NYC_subway-4D.svg"/>
